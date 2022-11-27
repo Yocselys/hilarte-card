@@ -22,5 +22,5 @@
 ## Página Web   🌐
 👉 [`URL`](https://yocselys.github.io/google-clone/)
 ## Demo
-<img width="150" src="./demo/mobile.png"/>
-<img width="500" src="./demo/desktop.png"/>
+<img width="150" src="./Imagenes/mobile .png"/>
+<img width="500" src="./Imagenes/desktop.png"/>
