@@ -1,4 +1,5 @@
 # Card Hilarte
+
 <p>
 <img
   alt="VS Code"
@@ -18,9 +19,11 @@
 />
 </p>
 
+>Hola soy Yocsy, estudio Desarrollo FrontEnd además soy diseñadora de amigurumis y enseño a tejer crochet en Hilarte Tejido, algo que me encanta y también es mi emprendimiento, como práctica del curso básico de HTML y CSS de Platzi, hice una card de presentación de Hilarte
+
 
 ## Página Web   🌐
-👉 [`URL`](https://yocselys.github.io/google-clone/)
+👉 [`URL`](https://yocselys.github.io/hilarte-card/)
 ## Demo
 <img width="150" src="./Imagenes/mobile .png"/>
 <img width="500" src="./Imagenes/desktop.png"/>
